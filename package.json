@@ -1,0 +1,13 @@
+{
+  "name": "BBBOT",
+  "version": "0.0.0",
+  "description": "API for Microsoft face recognition and detection",
+  "main": "server.js",
+  "repository": "",
+  "author": "Elton Chen-Yu Ho <b01505026@ntu.edu.tw>",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "~3.2.4",
+    "request": "^2.81.0"
+  }
+}
